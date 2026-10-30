@@ -1,7 +1,7 @@
 # 🌊 为 SINOSHOP 做出贡献 (Contributing to SINOSHOP)
 
-> **觀天之道，執天之行。造福人民。**
-> *Observe Nature's Order, Align with Ocean's Rhythm, Advance the People's Welfare.*
+> **觀天之道，執天之行。造福眾生。**
+> *Observe Nature's Order, Align with Ocean's Rhythm, Advance the Welfare of All Beings.*
 
 感谢你对 SINOSHOP 项目的关注！本指南旨在将你的才华转化为数字海洋的基石，确保每一行代码都符合 **物理精度的严苛** 与 **区块链的透明**。
 

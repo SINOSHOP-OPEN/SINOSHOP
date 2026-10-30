@@ -3,7 +3,7 @@
 
 ## 卷首语：编码即标准
 
-人类文明正从陆地迈向海洋，SINOSHOP观天之道，执天之行，造福人民。
+人类文明正从陆地迈向海洋，SINOSHOP观天之道，执天之行，造福众生。
 
 SINOSHOP 全称：Self-sustaining Intelligent Networked Oceanic Stable Habitat Operating Platform，
 释义为：自浮式 · 智能 · 网络化 · 海洋 · 城市 · 运营平台，

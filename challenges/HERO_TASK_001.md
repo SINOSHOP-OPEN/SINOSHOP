@@ -1,7 +1,7 @@
 # ⚔️ Hero Task 001：非线性海洋动力学稳定算法
 
-> **观天之道，执天之行，造福人民。**
-> *Observe Nature's Order, Align with Ocean's Rhythm, Advance the People's Welfare.*
+> **观天之道，执天之行，造福众生。**
+> *Observe Nature's Order, Align with Ocean's Rhythm, Advance the Welfare of All Beings.*
 
 欢迎，海洋先锋。这是你在 SINOSHOP 证明自己实力的第一道关卡。
 

@@ -62,11 +62,11 @@
 
 ---
 
-**SINOSHOP：观天之道，执天之行，造福人民。**
+**SINOSHOP：观天之道，执天之行，造福众生。**
 **海生电、电养桥、桥造城、城惠民。**
 **貞忠昭日月，惠民播春秋。**
 
-*Observe Nature's Order, Align with Ocean's Rhythm, Advance the People's Welfare.*
+*Observe Nature's Order, Align with Ocean's Rhythm, Advance the Welfare of All Beings.*
 *Ocean breeds energy, energy sustains the corridors, corridors build cities, and cities benefit the people.*
 *Steadfast Loyalty glowing like the sun and moon; Benevolence nourishing the tide of time.*
 
