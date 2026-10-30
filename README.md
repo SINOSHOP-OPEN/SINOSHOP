@@ -12,6 +12,41 @@
 
 **观天之道，执天之行，造福众生。**
 
+**108 秒技术展示片** —— [▶ 在线播放（GitHub Pages · 点开即看 · 无需下载）](https://sinoshop-open.github.io/webpage/#film)
+
+<!-- CREED:START -->
+<!-- ◆ 20261029 核心纲领置顶 -->
+
+## 🌊 SINOSHOP · 海洋文明核心纲领
+
+**CORE PRINCIPLE OF OCEAN CIVILISATION**
+
+---
+
+**【核心纲领 Core Principle】**
+
+### 观天之道，执天之行，三盗既宜，三才既安。
+
+*Observe Nature's Order, Align with Ocean's Rhythm. When the Three Harmonies Are Balanced, the Three Realms Rest Secure.*
+
+**【工程哲学 Industrial Philosophy】**
+
+### 海生电、电养城、城惠民。航天海，众生安。
+
+*Ocean generates power, power sustains the city, the city blesses the people, space-ocean synergy, all dwell in security.*
+
+**【精神信念 Spiritual Belief】**
+
+### 贞忠昭日月，惠民播春秋。
+
+*Steadfast Loyalty glowing like the sun and moon; Benevolence nourishing the tide of time.*
+
+---
+
+> 官网、仓库、文档三处同源 —— 一处修订，三处同步。纲领文本以正式发布稿为准。
+<!-- CREED:END -->
+
+
 **创新定位 · INNOVATION**　**无桩基超级刚体** Super-rigid　·　**四梯队消浪** Attenuation　·　**可生长城市** Growable city　·　**可复现闭环** Open proof
 *Observe Nature's Order, Align with Ocean's Rhythm, Advance the Welfare of All Beings.*
 
