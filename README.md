@@ -41,11 +41,7 @@
 
 *Steadfast Loyalty glowing like the sun and moon; Benevolence nourishing the tide of time.*
 
----
-
-> 官网、仓库、文档三处同源 —— 一处修订，三处同步。纲领文本以正式发布稿为准。
 <!-- CREED:END -->
-
 
 **创新定位 · INNOVATION**　**无桩基超级刚体** Super-rigid　·　**四梯队消浪** Attenuation　·　**可生长城市** Growable city　·　**可复现闭环** Open proof
 *Observe Nature's Order, Align with Ocean's Rhythm, Advance the Welfare of All Beings.*
